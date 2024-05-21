@@ -16,7 +16,7 @@ This project is a face recognition system that identifies individuals and manage
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/heisenberger69/genai.git
+   git clone https://github.com/heisenberger69/solveforiitk.git
    ```
 
 2. Install the required dependencies. Make sure you have Python 3 and pip installed, and then run:
